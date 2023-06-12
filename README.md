@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @greenjune-ship-it
-- 👀 I’m interested in bioinformatics, R shiny, Python
-- 🌱 I’m currently learning Java programming
+- 👀 I’m interested in bioinformatics, R, Python
+- 🌱 I’m currently learning DevOps practices
 - 💞️ I’m looking to collaborate on bioinformatics software development
 - 📫 How to reach me www.linkedin.com/in/yulia-iakovleva-b838a1210
 
